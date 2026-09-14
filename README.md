@@ -4,7 +4,7 @@
 
 An interactive sales dashboard built in Excel using PivotTables, PivotCharts, Power Pivot, and slicers to explore order, revenue, and delivery data.
 
-Screenshot 2026-09-14 125529.png
+![Dashboard Screenshot](dashboard-screenshot.png)
 
 ## Overview
 
