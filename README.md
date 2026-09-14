@@ -4,8 +4,7 @@
 
 An interactive sales dashboard built in Excel using PivotTables, PivotCharts, Power Pivot, and slicers to explore order, revenue, and delivery data.
 
-<!-- Add a screenshot here once uploaded, e.g.: -->
-<!-- ![Dashboard Screenshot](dashboard_screenshot.png) -->
+Screenshot 2026-09-14 125529.png
 
 ## Overview
 
@@ -37,8 +36,8 @@ An interactive sales dashboard built in Excel using PivotTables, PivotCharts, Po
 - Order activity shows clear peaks around early morning and early evening hours, suggesting distinct customer ordering windows worth investigating further.
 - Kavali leads all cities in order volume among the top 10 tracked.
 
-## Dataset
-
+## Data Source
+- Practice dataset (Ferns & Petals sales data) sourced from a GitHub repo linked in a YouTube tutorial's description. Used for learning/portfolio purposes.
 <!-- Add details here: where the dataset came from (Kaggle link, tutorial repo, etc.) and what it contains -->
 
 ## Notes
